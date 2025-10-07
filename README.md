@@ -1,1 +1,1 @@
-![My Animated Contribution Graph](.gif)
+![My Animated Contribution Graph](hamzah.gif)
